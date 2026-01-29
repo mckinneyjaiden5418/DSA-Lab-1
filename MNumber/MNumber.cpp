@@ -2,7 +2,7 @@
 
 int main() {
 	std::cout << "Hello World" << std::endl;
-	
+
 	int m_number;
 	std::cout << "Input your M number: ";
 	std::cin >> m_number;
